@@ -3,5 +3,5 @@
 ### Its Abdullah Wasay read me file here 
 
 * Abdullah 
-* Zamani 
+* ZR
 * here 
