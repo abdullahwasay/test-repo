@@ -1,2 +1,3 @@
 # test-repo
-this is a test repo
+## Mark down syntax
+### Its Abdullah Wasay read me file here 
